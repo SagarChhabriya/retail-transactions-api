@@ -1,0 +1,1052 @@
+[
+  {
+    "transaction_id": "API-00001",
+    "transaction_date": "2026-01-15",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 340.95
+  },
+  {
+    "transaction_id": "API-00002",
+    "transaction_date": "2026-01-15",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1206.59
+  },
+  {
+    "transaction_id": "API-00003",
+    "transaction_date": "2026-03-30",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 883.29
+  },
+  {
+    "transaction_id": "API-00004",
+    "transaction_date": "2026-02-21",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 1021.29
+  },
+  {
+    "transaction_id": "API-00005",
+    "transaction_date": "2026-02-13",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 1027.32
+  },
+  {
+    "transaction_id": "API-00006",
+    "transaction_date": "2026-01-09",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 805.67
+  },
+  {
+    "transaction_id": "API-00007",
+    "transaction_date": "2026-03-22",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 461.59
+  },
+  {
+    "transaction_id": "API-00008",
+    "transaction_date": "2026-01-13",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 449.18
+  },
+  {
+    "transaction_id": "API-00009",
+    "transaction_date": "2026-02-03",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 917.79
+  },
+  {
+    "transaction_id": "API-00010",
+    "transaction_date": "2026-03-29",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 746.18
+  },
+  {
+    "transaction_id": "API-00011",
+    "transaction_date": "2026-03-25",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 871.18
+  },
+  {
+    "transaction_id": "API-00012",
+    "transaction_date": "2026-02-28",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 453.24
+  },
+  {
+    "transaction_id": "API-00013",
+    "transaction_date": "2026-02-28",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 831.58
+  },
+  {
+    "transaction_id": "API-00014",
+    "transaction_date": "2026-03-20",
+    "model_name": "iPhone 16 Pro Max",
+    "quantity": 3,
+    "amount": 3692.05
+  },
+  {
+    "transaction_id": "API-00015",
+    "transaction_date": "2026-01-21",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 720.56
+  },
+  {
+    "transaction_id": "API-00016",
+    "transaction_date": "2026-03-19",
+    "model_name": "Google Pixel 9 Pro",
+    "quantity": 1,
+    "amount": 961.16
+  },
+  {
+    "transaction_id": "API-00017",
+    "transaction_date": "2026-02-15",
+    "model_name": "iPhone 16",
+    "quantity": 3,
+    "amount": 2412.19
+  },
+  {
+    "transaction_id": "API-00018",
+    "transaction_date": "2026-01-15",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 359.47
+  },
+  {
+    "transaction_id": "API-00019",
+    "transaction_date": "2026-02-25",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 816.69
+  },
+  {
+    "transaction_id": "API-00020",
+    "transaction_date": "2026-01-19",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 974.36
+  },
+  {
+    "transaction_id": "API-00021",
+    "transaction_date": "2026-03-21",
+    "model_name": "iPhone 16",
+    "quantity": 2,
+    "amount": 1619.13
+  },
+  {
+    "transaction_id": "API-00022",
+    "transaction_date": "2026-01-10",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 864.49
+  },
+  {
+    "transaction_id": "API-00023",
+    "transaction_date": "2026-03-22",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 456.42
+  },
+  {
+    "transaction_id": "API-00024",
+    "transaction_date": "2026-01-08",
+    "model_name": "Google Pixel 9",
+    "quantity": 3,
+    "amount": 2210.29
+  },
+  {
+    "transaction_id": "API-00025",
+    "transaction_date": "2026-01-09",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 935.75
+  },
+  {
+    "transaction_id": "API-00026",
+    "transaction_date": "2026-02-12",
+    "model_name": "iPhone 16 Pro Max",
+    "quantity": 1,
+    "amount": 1204.45
+  },
+  {
+    "transaction_id": "API-00027",
+    "transaction_date": "2026-02-08",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 347.23
+  },
+  {
+    "transaction_id": "API-00028",
+    "transaction_date": "2026-02-27",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 2,
+    "amount": 869.24
+  },
+  {
+    "transaction_id": "API-00029",
+    "transaction_date": "2026-03-26",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 2,
+    "amount": 873.53
+  },
+  {
+    "transaction_id": "API-00030",
+    "transaction_date": "2026-02-14",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 929.66
+  },
+  {
+    "transaction_id": "API-00031",
+    "transaction_date": "2026-01-18",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 2,
+    "amount": 1669.89
+  },
+  {
+    "transaction_id": "API-00032",
+    "transaction_date": "2026-02-01",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 2,
+    "amount": 673.94
+  },
+  {
+    "transaction_id": "API-00033",
+    "transaction_date": "2026-03-06",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 441.78
+  },
+  {
+    "transaction_id": "API-00034",
+    "transaction_date": "2026-02-27",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 343.0
+  },
+  {
+    "transaction_id": "API-00035",
+    "transaction_date": "2026-03-09",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 436.06
+  },
+  {
+    "transaction_id": "API-00036",
+    "transaction_date": "2026-01-19",
+    "model_name": "OnePlus 13",
+    "quantity": 2,
+    "amount": 1858.93
+  },
+  {
+    "transaction_id": "API-00037",
+    "transaction_date": "2026-03-23",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 2,
+    "amount": 1724.93
+  },
+  {
+    "transaction_id": "API-00038",
+    "transaction_date": "2026-03-22",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 764.54
+  },
+  {
+    "transaction_id": "API-00039",
+    "transaction_date": "2026-01-29",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 972.51
+  },
+  {
+    "transaction_id": "API-00040",
+    "transaction_date": "2026-02-12",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 3,
+    "amount": 2511.49
+  },
+  {
+    "transaction_id": "API-00041",
+    "transaction_date": "2026-01-17",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 340.66
+  },
+  {
+    "transaction_id": "API-00042",
+    "transaction_date": "2026-01-13",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 793.05
+  },
+  {
+    "transaction_id": "API-00043",
+    "transaction_date": "2026-02-09",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 347.28
+  },
+  {
+    "transaction_id": "API-00044",
+    "transaction_date": "2026-01-21",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 456.44
+  },
+  {
+    "transaction_id": "API-00045",
+    "transaction_date": "2026-03-17",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 1034.97
+  },
+  {
+    "transaction_id": "API-00046",
+    "transaction_date": "2026-02-06",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 865.17
+  },
+  {
+    "transaction_id": "API-00047",
+    "transaction_date": "2026-01-03",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 729.95
+  },
+  {
+    "transaction_id": "API-00048",
+    "transaction_date": "2026-01-21",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1238.03
+  },
+  {
+    "transaction_id": "API-00049",
+    "transaction_date": "2026-02-18",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 1026.1
+  },
+  {
+    "transaction_id": "API-00050",
+    "transaction_date": "2026-01-20",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 442.78
+  },
+  {
+    "transaction_id": "API-00051",
+    "transaction_date": "2026-01-21",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 759.6
+  },
+  {
+    "transaction_id": "API-00052",
+    "transaction_date": "2026-02-27",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1239.71
+  },
+  {
+    "transaction_id": "API-00053",
+    "transaction_date": "2026-02-08",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 355.28
+  },
+  {
+    "transaction_id": "API-00054",
+    "transaction_date": "2026-02-18",
+    "model_name": "Google Pixel 9 Pro",
+    "quantity": 1,
+    "amount": 948.52
+  },
+  {
+    "transaction_id": "API-00055",
+    "transaction_date": "2026-03-16",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 829.14
+  },
+  {
+    "transaction_id": "API-00056",
+    "transaction_date": "2026-03-24",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 766.49
+  },
+  {
+    "transaction_id": "API-00057",
+    "transaction_date": "2026-02-24",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 447.46
+  },
+  {
+    "transaction_id": "API-00058",
+    "transaction_date": "2026-03-31",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 845.72
+  },
+  {
+    "transaction_id": "API-00059",
+    "transaction_date": "2026-02-08",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 817.32
+  },
+  {
+    "transaction_id": "API-00060",
+    "transaction_date": "2026-03-28",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 739.45
+  },
+  {
+    "transaction_id": "API-00061",
+    "transaction_date": "2026-02-13",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 2,
+    "amount": 1990.98
+  },
+  {
+    "transaction_id": "API-00062",
+    "transaction_date": "2026-01-07",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 885.05
+  },
+  {
+    "transaction_id": "API-00063",
+    "transaction_date": "2026-02-13",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 1026.74
+  },
+  {
+    "transaction_id": "API-00064",
+    "transaction_date": "2026-01-08",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 870.23
+  },
+  {
+    "transaction_id": "API-00065",
+    "transaction_date": "2026-01-10",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 2,
+    "amount": 689.35
+  },
+  {
+    "transaction_id": "API-00066",
+    "transaction_date": "2026-01-08",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 876.53
+  },
+  {
+    "transaction_id": "API-00067",
+    "transaction_date": "2026-01-07",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 337.53
+  },
+  {
+    "transaction_id": "API-00068",
+    "transaction_date": "2026-02-13",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 821.3
+  },
+  {
+    "transaction_id": "API-00069",
+    "transaction_date": "2026-02-12",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 2,
+    "amount": 697.14
+  },
+  {
+    "transaction_id": "API-00070",
+    "transaction_date": "2026-03-04",
+    "model_name": "Google Pixel 9 Pro",
+    "quantity": 1,
+    "amount": 914.28
+  },
+  {
+    "transaction_id": "API-00071",
+    "transaction_date": "2026-03-13",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 859.43
+  },
+  {
+    "transaction_id": "API-00072",
+    "transaction_date": "2026-01-29",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 858.91
+  },
+  {
+    "transaction_id": "API-00073",
+    "transaction_date": "2026-03-30",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 771.43
+  },
+  {
+    "transaction_id": "API-00074",
+    "transaction_date": "2026-03-08",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 2,
+    "amount": 709.68
+  },
+  {
+    "transaction_id": "API-00075",
+    "transaction_date": "2026-03-10",
+    "model_name": "OnePlus 13",
+    "quantity": 3,
+    "amount": 2673.86
+  },
+  {
+    "transaction_id": "API-00076",
+    "transaction_date": "2026-01-18",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 976.62
+  },
+  {
+    "transaction_id": "API-00077",
+    "transaction_date": "2026-01-30",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 461.05
+  },
+  {
+    "transaction_id": "API-00078",
+    "transaction_date": "2026-03-21",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 900.81
+  },
+  {
+    "transaction_id": "API-00079",
+    "transaction_date": "2026-01-26",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 993.73
+  },
+  {
+    "transaction_id": "API-00080",
+    "transaction_date": "2026-01-18",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 961.1
+  },
+  {
+    "transaction_id": "API-00081",
+    "transaction_date": "2026-03-14",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 443.49
+  },
+  {
+    "transaction_id": "API-00082",
+    "transaction_date": "2026-01-06",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 2,
+    "amount": 892.13
+  },
+  {
+    "transaction_id": "API-00083",
+    "transaction_date": "2026-02-03",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 352.46
+  },
+  {
+    "transaction_id": "API-00084",
+    "transaction_date": "2026-03-04",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1220.5
+  },
+  {
+    "transaction_id": "API-00085",
+    "transaction_date": "2026-02-09",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 2,
+    "amount": 1958.71
+  },
+  {
+    "transaction_id": "API-00086",
+    "transaction_date": "2026-03-09",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 774.41
+  },
+  {
+    "transaction_id": "API-00087",
+    "transaction_date": "2026-01-25",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 349.72
+  },
+  {
+    "transaction_id": "API-00088",
+    "transaction_date": "2026-03-28",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 2,
+    "amount": 880.33
+  },
+  {
+    "transaction_id": "API-00089",
+    "transaction_date": "2026-03-10",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1160.28
+  },
+  {
+    "transaction_id": "API-00090",
+    "transaction_date": "2026-03-20",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 881.31
+  },
+  {
+    "transaction_id": "API-00091",
+    "transaction_date": "2026-01-26",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 749.11
+  },
+  {
+    "transaction_id": "API-00092",
+    "transaction_date": "2026-01-19",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 935.27
+  },
+  {
+    "transaction_id": "API-00093",
+    "transaction_date": "2026-03-12",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 454.21
+  },
+  {
+    "transaction_id": "API-00094",
+    "transaction_date": "2026-02-04",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 434.81
+  },
+  {
+    "transaction_id": "API-00095",
+    "transaction_date": "2026-03-12",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 839.7
+  },
+  {
+    "transaction_id": "API-00096",
+    "transaction_date": "2026-03-23",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 883.39
+  },
+  {
+    "transaction_id": "API-00097",
+    "transaction_date": "2026-03-28",
+    "model_name": "Google Pixel 9 Pro",
+    "quantity": 1,
+    "amount": 984.5
+  },
+  {
+    "transaction_id": "API-00098",
+    "transaction_date": "2026-03-04",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 865.63
+  },
+  {
+    "transaction_id": "API-00099",
+    "transaction_date": "2026-02-03",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 903.32
+  },
+  {
+    "transaction_id": "API-00100",
+    "transaction_date": "2026-03-24",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 863.68
+  },
+  {
+    "transaction_id": "API-00101",
+    "transaction_date": "2026-02-28",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 858.7
+  },
+  {
+    "transaction_id": "API-00102",
+    "transaction_date": "2026-01-04",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 433.17
+  },
+  {
+    "transaction_id": "API-00103",
+    "transaction_date": "2026-02-24",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1179.34
+  },
+  {
+    "transaction_id": "API-00104",
+    "transaction_date": "2026-01-02",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 2,
+    "amount": 694.97
+  },
+  {
+    "transaction_id": "API-00105",
+    "transaction_date": "2026-03-23",
+    "model_name": "iPhone 16 Pro Max",
+    "quantity": 1,
+    "amount": 1196.93
+  },
+  {
+    "transaction_id": "API-00106",
+    "transaction_date": "2026-02-01",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 341.36
+  },
+  {
+    "transaction_id": "API-00107",
+    "transaction_date": "2026-01-03",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 972.2
+  },
+  {
+    "transaction_id": "API-00108",
+    "transaction_date": "2026-03-08",
+    "model_name": "iPhone 16 Pro Max",
+    "quantity": 1,
+    "amount": 1189.4
+  },
+  {
+    "transaction_id": "API-00109",
+    "transaction_date": "2026-02-24",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 786.23
+  },
+  {
+    "transaction_id": "API-00110",
+    "transaction_date": "2026-01-13",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 2,
+    "amount": 1974.55
+  },
+  {
+    "transaction_id": "API-00111",
+    "transaction_date": "2026-03-27",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 727.09
+  },
+  {
+    "transaction_id": "API-00112",
+    "transaction_date": "2026-03-07",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 930.14
+  },
+  {
+    "transaction_id": "API-00113",
+    "transaction_date": "2026-01-07",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 863.23
+  },
+  {
+    "transaction_id": "API-00114",
+    "transaction_date": "2026-02-02",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 858.82
+  },
+  {
+    "transaction_id": "API-00115",
+    "transaction_date": "2026-01-26",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 2,
+    "amount": 900.74
+  },
+  {
+    "transaction_id": "API-00116",
+    "transaction_date": "2026-01-31",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 845.28
+  },
+  {
+    "transaction_id": "API-00117",
+    "transaction_date": "2026-02-28",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 841.25
+  },
+  {
+    "transaction_id": "API-00118",
+    "transaction_date": "2026-01-27",
+    "model_name": "Google Pixel 9",
+    "quantity": 2,
+    "amount": 1483.37
+  },
+  {
+    "transaction_id": "API-00119",
+    "transaction_date": "2026-03-24",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 821.53
+  },
+  {
+    "transaction_id": "API-00120",
+    "transaction_date": "2026-02-04",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 862.81
+  },
+  {
+    "transaction_id": "API-00121",
+    "transaction_date": "2026-02-26",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 356.64
+  },
+  {
+    "transaction_id": "API-00122",
+    "transaction_date": "2026-03-01",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 777.74
+  },
+  {
+    "transaction_id": "API-00123",
+    "transaction_date": "2026-02-13",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 825.92
+  },
+  {
+    "transaction_id": "API-00124",
+    "transaction_date": "2026-03-13",
+    "model_name": "iPhone 16 Pro Max",
+    "quantity": 1,
+    "amount": 1216.43
+  },
+  {
+    "transaction_id": "API-00125",
+    "transaction_date": "2026-02-25",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 983.38
+  },
+  {
+    "transaction_id": "API-00126",
+    "transaction_date": "2026-01-05",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 346.95
+  },
+  {
+    "transaction_id": "API-00127",
+    "transaction_date": "2026-03-27",
+    "model_name": "iPhone 16 Pro Max",
+    "quantity": 1,
+    "amount": 1214.46
+  },
+  {
+    "transaction_id": "API-00128",
+    "transaction_date": "2026-01-12",
+    "model_name": "Google Pixel 9 Pro",
+    "quantity": 1,
+    "amount": 968.62
+  },
+  {
+    "transaction_id": "API-00129",
+    "transaction_date": "2026-03-27",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1236.91
+  },
+  {
+    "transaction_id": "API-00130",
+    "transaction_date": "2026-03-25",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 463.14
+  },
+  {
+    "transaction_id": "API-00131",
+    "transaction_date": "2026-03-24",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 825.52
+  },
+  {
+    "transaction_id": "API-00132",
+    "transaction_date": "2026-02-06",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 913.41
+  },
+  {
+    "transaction_id": "API-00133",
+    "transaction_date": "2026-01-15",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 814.71
+  },
+  {
+    "transaction_id": "API-00134",
+    "transaction_date": "2026-01-11",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 819.87
+  },
+  {
+    "transaction_id": "API-00135",
+    "transaction_date": "2026-02-23",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 874.66
+  },
+  {
+    "transaction_id": "API-00136",
+    "transaction_date": "2026-02-01",
+    "model_name": "Samsung Galaxy A56",
+    "quantity": 1,
+    "amount": 454.35
+  },
+  {
+    "transaction_id": "API-00137",
+    "transaction_date": "2026-02-06",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 793.5
+  },
+  {
+    "transaction_id": "API-00138",
+    "transaction_date": "2026-01-25",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 783.16
+  },
+  {
+    "transaction_id": "API-00139",
+    "transaction_date": "2026-01-08",
+    "model_name": "Samsung Galaxy S25 Ultra",
+    "quantity": 1,
+    "amount": 1222.92
+  },
+  {
+    "transaction_id": "API-00140",
+    "transaction_date": "2026-03-02",
+    "model_name": "iPhone 16 Pro Max",
+    "quantity": 1,
+    "amount": 1239.26
+  },
+  {
+    "transaction_id": "API-00141",
+    "transaction_date": "2026-02-01",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 770.25
+  },
+  {
+    "transaction_id": "API-00142",
+    "transaction_date": "2026-02-17",
+    "model_name": "Samsung Galaxy S25",
+    "quantity": 1,
+    "amount": 816.26
+  },
+  {
+    "transaction_id": "API-00143",
+    "transaction_date": "2026-02-24",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 3,
+    "amount": 1056.2
+  },
+  {
+    "transaction_id": "API-00144",
+    "transaction_date": "2026-03-21",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 2,
+    "amount": 693.82
+  },
+  {
+    "transaction_id": "API-00145",
+    "transaction_date": "2026-03-08",
+    "model_name": "iPhone 16",
+    "quantity": 1,
+    "amount": 794.21
+  },
+  {
+    "transaction_id": "API-00146",
+    "transaction_date": "2026-02-21",
+    "model_name": "OnePlus 13",
+    "quantity": 1,
+    "amount": 896.52
+  },
+  {
+    "transaction_id": "API-00147",
+    "transaction_date": "2026-02-24",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 2,
+    "amount": 695.15
+  },
+  {
+    "transaction_id": "API-00148",
+    "transaction_date": "2026-02-23",
+    "model_name": "Samsung Galaxy A36",
+    "quantity": 1,
+    "amount": 356.08
+  },
+  {
+    "transaction_id": "API-00149",
+    "transaction_date": "2026-03-04",
+    "model_name": "iPhone 16 Pro",
+    "quantity": 1,
+    "amount": 1032.59
+  },
+  {
+    "transaction_id": "API-00150",
+    "transaction_date": "2026-01-23",
+    "model_name": "Google Pixel 9",
+    "quantity": 1,
+    "amount": 728.59
+  }
+]
